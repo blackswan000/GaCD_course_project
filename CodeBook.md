@@ -89,6 +89,6 @@ fBodyBodyGyroJerkMag.std..
 * `activity`: Each person performed six activities of values : WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING and LAYING.
 * The other variables are the average of each variable for each activity and each subject. The data are processed sensor signals.
 * 
-### Transformations performed on data:
+###3.Transformations performed on data:
 
-* For `activity` variable the numeric values between 1 and 6 were replace by the descriptive names: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING and LAYING.
+* For `activity` variable the numeric values between 1 and 6 were replaced by the descriptive names: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING and LAYING.
