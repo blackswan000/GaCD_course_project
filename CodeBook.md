@@ -1,4 +1,4 @@
-1. The 81 final variables are:
+1.The 81 final variables are:
 
 
 activity  
