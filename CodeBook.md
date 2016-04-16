@@ -92,4 +92,5 @@ fBodyBodyGyroJerkMag.std..
 ###3.Transformations performed on data:
 
 * For `activity` variable the numeric values between 1 and 6 were replaced by the descriptive names: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING and LAYING.
-* Extracts only the variables involving the mean and standard deviation for each measurement
+* Only the variables involving the mean and standard deviation for each measurement were selected.
+* In the last step were calculated the average of each variable.
