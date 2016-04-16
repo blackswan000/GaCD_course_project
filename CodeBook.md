@@ -85,5 +85,6 @@ fBodyBodyGyroJerkMag.std..
 
 2.Description of each variable:
 
-`subject`: a group of 30 volunteers within an age bracket of 19-48 years.  
-`activity`: Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
+* `subject`: a group of 30 volunteers within an age bracket of 19-48 years.  
+* `activity`: Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
+* The other variables are the average of each variable for each activity and each subject.
