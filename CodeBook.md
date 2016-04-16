@@ -1,4 +1,6 @@
-x  
+1. The 81 final variables are:
+
+
 activity  
 subject  
 tBodyAcc.mean...X  
