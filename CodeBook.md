@@ -88,3 +88,7 @@ fBodyBodyGyroJerkMag.std..
 * `subject`: a group of 30 volunteers within an age bracket of 19-48 years. The data are values between 1 and 30. 
 * `activity`: Each person performed six activities of values : WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING and LAYING.
 * The other variables are the average of each variable for each activity and each subject. The data are processed sensor signals.
+* 
+### Transformations performed on data:
+
+* For `activity` variable the numeric values between 1 and 6 were replace by the descriptive names: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING and LAYING.
