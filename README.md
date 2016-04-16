@@ -1,4 +1,4 @@
-### How the script _run_analysis.R_ works:
+### How the script `run_analysis.R` works:
 
 1. From the features.txt file in _test_ folder it read the variable names and store them in a character vector.
 2. It read the activity labels and subjects from the y_test.txt and subject_test.txt files respectively and store each of them in a numeric vector.
