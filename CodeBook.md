@@ -1,5 +1,5 @@
-activity
-subject
+activity  
+subject  
 tBodyAcc.mean...X
 tBodyAcc.mean...Y
 tBodyAcc.mean...Z
